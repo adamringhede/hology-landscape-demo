@@ -1,0 +1,10 @@
+{
+  "name": "rocks",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9a8efcad-c642-4643-9987-589f89fbef23",
+  "fileKey": "rocks.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\adamr\\Downloads\\kenney_graveyard-kit\\Models\\GLB format\\rocks.glb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rocks-tall",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9a8efce1-8aea-4c10-b10c-02d32f2769e3",
+  "fileKey": "rocks-tall.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\adamr\\Downloads\\kenney_graveyard-kit\\Models\\GLB format\\rocks-tall.glb"
+}

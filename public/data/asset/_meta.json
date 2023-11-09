@@ -1,0 +1,81 @@
+{
+  "9a92e2b1-0ce6-4673-9873-c9b48f1832b8": {
+    "id": "9a92e2b1-0ce6-4673-9873-c9b48f1832b8",
+    "name": "crypt",
+    "path": ""
+  },
+  "9a92e2f9-b400-43d8-8cd7-8447727562e7": {
+    "id": "9a92e2f9-b400-43d8-8cd7-8447727562e7",
+    "name": "debris-wood",
+    "path": ""
+  },
+  "9a92e2f8-2c02-487f-9def-dc4bafd02bb4": {
+    "id": "9a92e2f8-2c02-487f-9def-dc4bafd02bb4",
+    "name": "debris",
+    "path": ""
+  },
+  "9a86640d-9906-46b6-8ec5-d15f4b8f0075": {
+    "id": "9a86640d-9906-46b6-8ec5-d15f4b8f0075",
+    "name": "Dirt_Stylized001_basecolor_1k",
+    "path": ""
+  },
+  "9a866406-0c72-4f8e-b208-d5f1388c6782": {
+    "id": "9a866406-0c72-4f8e-b208-d5f1388c6782",
+    "name": "Dirt_Stylized001_normal_1k",
+    "path": ""
+  },
+  "9a86642d-1948-4006-b8eb-a5d4734867f3": {
+    "id": "9a86642d-1948-4006-b8eb-a5d4734867f3",
+    "name": "Dirt_Stylized001_roughness_1k",
+    "path": ""
+  },
+  "9a8efd68-e706-4555-9196-7bb39379b710": {
+    "id": "9a8efd68-e706-4555-9196-7bb39379b710",
+    "name": "fence",
+    "path": ""
+  },
+  "9a8a3e5f-1a3c-4da1-883f-a4d677d3a03e": {
+    "id": "9a8a3e5f-1a3c-4da1-883f-a4d677d3a03e",
+    "name": "grass-model",
+    "path": ""
+  },
+  "9a8a4b36-6db4-4fd4-b12d-b3a826fb4e07": {
+    "id": "9a8a4b36-6db4-4fd4-b12d-b3a826fb4e07",
+    "name": "Grass"
+  },
+  "9a8efce1-8aea-4c10-b10c-02d32f2769e3": {
+    "id": "9a8efce1-8aea-4c10-b10c-02d32f2769e3",
+    "name": "rocks-tall",
+    "path": ""
+  },
+  "9a8efcad-c642-4643-9987-589f89fbef23": {
+    "id": "9a8efcad-c642-4643-9987-589f89fbef23",
+    "name": "rocks",
+    "path": ""
+  },
+  "9a92e04e-a17a-437b-859f-2319a2cb8e03": {
+    "id": "9a92e04e-a17a-437b-859f-2319a2cb8e03",
+    "name": "shovel-dirt",
+    "path": ""
+  },
+  "9a8efcf8-4ae6-419c-82ec-7581de61395b": {
+    "id": "9a8efcf8-4ae6-419c-82ec-7581de61395b",
+    "name": "stone-wall",
+    "path": ""
+  },
+  "9a8663c3-9a40-4f05-8c8c-946b104f4ef6": {
+    "id": "9a8663c3-9a40-4f05-8c8c-946b104f4ef6",
+    "name": "stylized-grass1_albedo",
+    "path": ""
+  },
+  "9a8efd1e-25fe-45c9-a249-d869da8fd370": {
+    "id": "9a8efd1e-25fe-45c9-a249-d869da8fd370",
+    "name": "trunk-long",
+    "path": ""
+  },
+  "9a92e299-b49c-490a-aa67-f8aa0e63f3e0": {
+    "id": "9a92e299-b49c-490a-aa67-f8aa0e63f3e0",
+    "name": "urn",
+    "path": ""
+  }
+}

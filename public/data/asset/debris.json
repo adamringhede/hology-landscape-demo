@@ -1,0 +1,10 @@
+{
+  "name": "debris",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9a92e2f8-2c02-487f-9def-dc4bafd02bb4",
+  "fileKey": "debris.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\adamr\\Downloads\\kenney_graveyard-kit\\Models\\GLB format\\debris.glb"
+}

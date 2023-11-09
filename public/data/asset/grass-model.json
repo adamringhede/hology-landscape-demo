@@ -1,0 +1,19 @@
+{
+  "name": "grass-model",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9a8a3e5f-1a3c-4da1-883f-a4d677d3a03e",
+  "fileKey": "grass-model.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\adamr\\Downloads\\grass-model.glb",
+  "mesh": {},
+  "materialAssignments": [
+    {
+      "color": "#ffffff",
+      "materialId": "9a8a4b36-6db4-4fd4-b12d-b3a826fb4e07",
+      "name": "GrassGrass_MAT"
+    }
+  ],
+  "receiveShadow": false
+}

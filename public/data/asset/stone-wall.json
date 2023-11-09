@@ -1,0 +1,10 @@
+{
+  "name": "stone-wall",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9a8efcf8-4ae6-419c-82ec-7581de61395b",
+  "fileKey": "stone-wall.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\adamr\\Downloads\\kenney_graveyard-kit\\Models\\GLB format\\stone-wall.glb"
+}

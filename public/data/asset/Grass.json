@@ -1,0 +1,23 @@
+{
+  "name": "Grass",
+  "type": "material",
+  "material": {
+    "type": "shader",
+    "params": {
+      "metalness": 0,
+      "opacity": 1
+    },
+    "shaderParams": {
+      "color": {
+        "type": 11,
+        "value": "#45964f"
+      },
+      "colorTop": {
+        "type": 11,
+        "value": "#9ef76e"
+      }
+    },
+    "shader": "GrassShader"
+  },
+  "id": "9a8a4b36-6db4-4fd4-b12d-b3a826fb4e07"
+}

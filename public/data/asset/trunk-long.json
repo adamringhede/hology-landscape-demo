@@ -1,0 +1,13 @@
+{
+  "name": "trunk-long",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9a8efd1e-25fe-45c9-a249-d869da8fd370",
+  "fileKey": "trunk-long.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\adamr\\Downloads\\kenney_graveyard-kit\\Models\\GLB format\\trunk-long.glb",
+  "mesh": {
+    "rescale": 1
+  }
+}
