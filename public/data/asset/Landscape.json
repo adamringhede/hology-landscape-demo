@@ -1,0 +1,38 @@
+{
+  "name": "Landscape",
+  "type": "material",
+  "material": {
+    "type": "shader",
+    "params": {
+      "metalness": 0,
+      "opacity": 1
+    },
+    "shaderParams": {
+      "color": {
+        "type": 11,
+        "value": "#56bc49"
+      },
+      "grassTexture": {
+        "type": 2,
+        "value": "9a8663c3-9a40-4f05-8c8c-946b104f4ef6"
+      },
+      "dirtTexture": {
+        "type": 2,
+        "value": "9a86640d-9906-46b6-8ec5-d15f4b8f0075"
+      },
+      "dirtNormalTexture": {
+        "type": 2,
+        "value": "9a866406-0c72-4f8e-b208-d5f1388c6782"
+      },
+      "threshold": {
+        "type": 1,
+        "value": "0.85"
+      },
+      "gradient": {
+        "type": 1
+      }
+    },
+    "shader": "ExampleShader"
+  },
+  "id": "9a9324fb-eba2-4783-934e-8e50fd6762be"
+}
